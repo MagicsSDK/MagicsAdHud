@@ -31,10 +31,10 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的广告SDK�
 ### `第二步` 配置工程属性
 
 #### `2.1` 向Build Phases → Link Binary With Libraries 中添加依赖库 见下图
-![image]
+![image](https://github.com/MagicsSDK/MagicsAdHud/blob/master/image/framework.png)
 
 `2.2` 需把示例工程中的 AliyunOSSiOS.framework 和 iflyAIUI.framework  resource文件夹 拖入你的工程 见下图
-
+![image](https://github.com/MagicsSDK/MagicsAdHud/blob/master/image/21540459928_.pic_hd.jpg)
 
 `2.3` SDK不支持bitcode
 
