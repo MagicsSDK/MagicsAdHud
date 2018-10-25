@@ -21,7 +21,7 @@ Magic团队致力于将最新、性能最好、使用最方便的广告SDK提供
 
 # 详情文档 请参阅 下方链接
 
-[文档地址](https://github.com/MagicsSDK/MagicsAdHud/blob/master/image/51540460320_.pic.jpg) 
+[文档地址](https://appmagics.gitbooks.io/magicadhudsdk/content/) 
 
 ## MagicsAdHud SDK 快速入门
 
