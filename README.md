@@ -26,7 +26,7 @@ FaceMagic团队致力于将最新、性能最好、使用最方便的广告SDK�
 ## FaceMagic SDK 快速入门
 
 ### `第一步` 将下载的SDK解压后导入到您的工程中，见下图
-![image](https://github.com/MagicsSDK/FaceMagic/tree/master/img_folder/图片1.png)
+![image](https://github.com/MagicsSDK/MagicsAdHud/blob/master/image/51540460320_.pic.jpg)
 
 ### `第二步` 配置工程属性
 
